@@ -4,7 +4,6 @@
 #### AI Super Reference Kit- Voice Data Generation and Disease Prediction Using NLP
 #### Email - joeljoseph1810@gmail.com
 #### Website link - https://oneapi-sa-hack.streamlit.app/
-#### PPT - 
 ## DEMO VIDEO - 
 ## A Brief of the Prototype <img src="https://github.com/JoelJJoseph/oneapi-sa-hack/assets/72274851/873a5645-68ca-4847-b86b-0b158fdd3d82" height="80" width="80"> <br>
 
