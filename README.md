@@ -5,6 +5,9 @@
 #### Email - joeljoseph1810@gmail.com
 #### Website link - https://oneapi-sa-hack.streamlit.app/
 ## DEMO VIDEO - 
+
+## Inspiration<img src="https://github.com/JoelJJoseph/oneapi-sa-hack/assets/72274851/0237fb2a-7625-422b-9346-6aace1656d8f" height="80" width="80"><br>
+In a world marked by evolving healthcare challenges and disparities, my project emerges as a beacon of innovation and compassion. I have witnessed the ever-increasing complexity of healthcare systems, the pressing need for accessible medical information, and the desire for personalized health solutions. In this landscape, my project was born with a mission: to bridge these gaps and empower individuals with the knowledge and support they need for a healthier life. In today's world, where reliable healthcare resources are often inaccessible, and navigating medical decisions can be overwhelming, my project stands as a solution that brings simplicity, accessibility, and informed decision-making to the forefront. I have tackled the challenges of data privacy, information overload, and diverse user needs head-on, driven by the belief that everyone deserves easy access to healthcare information and personalized recommendations. My project is not just about technology; it's about enhancing lives, fostering health equity, and envisioning a brighter and healthier future for all.
 ## A Brief of the Prototype <img src="https://github.com/JoelJJoseph/oneapi-sa-hack/assets/72274851/873a5645-68ca-4847-b86b-0b158fdd3d82" height="80" width="80"> <br>
 
 The project MediCare has harnessed the power of artificial intelligence to revolutionize healthcare support. One pivotal tool that played a crucial role in achieving our mission was the AI Reference Kit Library. This comprehensive library provided us with a robust foundation for implementing AI-driven features such as the intelligent chatbot for first-aid assistance and the predictive medicine recommendation system
